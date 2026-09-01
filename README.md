@@ -1,5 +1,5 @@
 # find-your-train
-# Indian Railways ETA prediction tool and tracking tool
+# Indian Railways ETA and cause prediction tool
 
 This project uses CatBoost to predict train arrival delays and classify the likely cause of delay from railway operational, schedule, weather, and traffic data.
 
